@@ -14,14 +14,15 @@ Most of my projects come from real problems — I produce music, so I built a to
 
 ### What I've Built
 
+**[Beat Grid](https://github.com/cihadgurgul/beat-grid)** — CEP Extension for Adobe Premiere Pro (coming soon on aescripts.com)
+> A visual drum grid sequencer built into Premiere Pro. Enter your BPM, draw a kick/snare/hi-hat/clap pattern, and the plugin places frame-accurate markers and visual overlays on your timeline. Features copy/paste bars, fill-all pattern repeat, grid subdivisions, undo/redo, and live playhead sync. My first commercial product.
+
+**[PolyMarket Copy Trade Dashboard](https://github.com/cihadgurgul/PolyMarket-Copy-Trade-Dashboard)** — JavaScript / Node.js
+> Tracks top Polymarket traders and mirrors their positions. Monitors wallets, detects new trades, and provides a dashboard for copy-trading prediction market bets.
+
 **[FL Studio Drum Analyzer](https://github.com/cihadgurgul/FL-Studio-Drum-Analyzer)** — Python CLI tool
 > Scans all your FL Studio projects (even zipped ones), figures out which drum kits you actually use, ranks them, and lets you archive the rest. Built this because my sample library was 200+ kits deep and half of them were collecting dust.
 
-**[Movie Info Country Origin](https://github.com/cihadgurgul/movie-info-country-origin)** — JavaScript
-> Fetches movie details and country of origin data through APIs.
-
-**[ERC721A NFT Contract](https://github.com/cihadgurgul/Low-Gas-ETH-ERC721A-NFT-with-Whitelist-and-Reveal)** — Solidity
-> Gas-optimized NFT smart contract on Ethereum with whitelist minting and reveal functionality.
 
 ---
 
